@@ -1,4 +1,5 @@
 # XYZ_Store_PowerBI_Dashboard
+![XYZ Store dashboard](https://github.com/user-attachments/assets/a38ce923-b4a9-41cd-883c-b176832710c1)
 
 The image represents an e-commerce sales dashboard created using Power BI. It visualizes various aspects of the sales data, allowing for an at-a-glance overview of key metrics and performance indicators. Here's a brief description of what each section of the dashboard shows:
 
